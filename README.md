@@ -26,3 +26,6 @@ Airbnb is a popular online platform in the USA for lodging services. Similar to 
 ```python
 
 ```
+# Files
+Only the listing.csv is avilable in the repository. The calender and review csv files are not uploaded due to the size limit. Please download 
+https://www.kaggle.com/airbnb/seattle/data
